@@ -1,3 +1,7 @@
+/*imports
+/*using System.Security.Cryptography;
+*/
+
 public void encrypt(string plainText,out string cypherText) 
 {           
     cypherText = ""; //if this parameter return empty string, therefore, something went wrong within the method
